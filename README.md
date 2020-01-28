@@ -7,3 +7,5 @@ krisha
 sonia
 vijaya
 pushpa
+santu
+priya
